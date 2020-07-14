@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17795116606",
+    "firebase_url": "https://school-ecbd5.firebaseio.com",
+    "project_id": "school-ecbd5",
+    "storage_bucket": "school-ecbd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17795116606:android:8f6c1178f4c01cc3f7eb6f",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17795116606-slrf4jldk3k0u0jjog3omip8d5ie4pb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMESOu_LiKd6MxD88EdRFBEWh3sKi2wJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17795116606-slrf4jldk3k0u0jjog3omip8d5ie4pb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NotoKufiArabic";
+    src: url("../fonts/NotoKufiArabic-Regular.ttf");
+}
+
+* {
+    font-family: "NotoKufiArabic" !important;
+}

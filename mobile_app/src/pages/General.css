@@ -1,0 +1,59 @@
+.welcome-card img {
+    max-height: 35vh;
+    overflow: hidden;
+}
+
+img {
+    width: 100% !important;
+    text-align: center;
+}
+
+ion-card {
+    width: 95% !important;
+    margin: 10px auto !important;
+}
+
+hr {
+    border-width: 1px !important;
+    height: 0px !important;
+    border-color: rgba(223, 223, 223, 0.3);
+}
+
+.avatar-25 {
+    width: 25px !important;
+    height: 25px;
+}
+
+h1 {
+    margin: 20px auto;
+}
+
+.login-card {
+    margin-top: 20%;
+    text-align: center;
+}
+
+ion-toolbar,
+ion-title {
+    --background: var(--ion-color-primary);
+    color: white !important;
+}
+
+a {
+    color: gray !important;
+    text-decoration: none;
+}
+
+.center-message {
+    width: 100%;
+    text-align: center;
+}
+
+.item {
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(212, 211, 211);
+}
+
+.center-text {
+    text-align: center;
+}

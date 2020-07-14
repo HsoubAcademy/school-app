@@ -1,0 +1,8 @@
+{
+    "appId": "com.hsoub.school",
+    "appName": "school",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+}
